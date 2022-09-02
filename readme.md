@@ -9,7 +9,7 @@ Code "**Rain effect**" using three.js
 - Three.js
 
 
-![image](https://github.com/qasim29/RAIN_THREE.JS/blob/master/Rain_Effect_SS.jpg)
+![image](https://github.com/qasim29/RAIN_THREEJS/blob/master/Rain_Effect_SS.jpg)
 
 
 
@@ -21,4 +21,7 @@ Following script tags can be used instead of installing modules.
 OR
 
 `https://cdnjs.cloudflare.com/ajax/libs/three.js/r99/three.js`
+
+
+**CheckOut [**Computer Graphics**](https://github.com/qasim29/Computer_Graphics) Repo**
 
