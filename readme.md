@@ -1,6 +1,6 @@
-#RAIN_THREEJS
+# RAIN_THREEJS
 
-## OBJECTIVE
+# OBJECTIVE
 
 Code "**Rain effect**" using three.js   
 
@@ -21,6 +21,7 @@ Following script tags can be used instead of installing modules.
 OR
 
 `https://cdnjs.cloudflare.com/ajax/libs/three.js/r99/three.js`
+
 
 
 **CheckOut [**Computer Graphics**](https://github.com/qasim29/Computer_Graphics) Repo**
